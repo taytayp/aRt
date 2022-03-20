@@ -36,5 +36,5 @@ Imports:
 	tidyr,
 	treemapify
 Remotes:
-  BlakeRMills/MetBrewer
+  BlakeRMills/MetBrewer,
   nrennie/aRtData
